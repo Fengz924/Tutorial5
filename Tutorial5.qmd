@@ -6,3 +6,8 @@ editor: visual
 date information: 26 March 2024
 The file will render to html
 ---
+
+```{r}
+library(tidyverse)
+```
+
